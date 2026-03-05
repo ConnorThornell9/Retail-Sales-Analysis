@@ -61,3 +61,5 @@ Are high-revenue products also high-margin?
 - Time-series analysis revealed seasonal sales trends, with stronger performance during mid-year and holiday months.
 
 ## Dashboard Preview
+
+![Dashboard](BikeSalesDashboard.png)
