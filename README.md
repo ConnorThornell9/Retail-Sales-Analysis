@@ -20,7 +20,7 @@ This project analyzes retail sales data to evaluate revenue trends, customer beh
 - Power BI Dashboard
 
 ## Key Business Questions Answered
-1️⃣ Revenue & Growth
+**1️.  Revenue & Growth**
 
 What is total revenue?
 
@@ -28,7 +28,7 @@ How does revenue trend over time?
 
 What is year-over-year growth?
 
-2️⃣ Customer Analysis
+**2️.  Customer Analysis**
 
 What percentage of customers are one-time vs repeat?
 
@@ -36,7 +36,7 @@ How much revenue do repeat customers generate?
 
 What is the revenue distribution by gender and country?
 
-3️⃣ Product Performance
+**3️.  Product Performance**
 
 Which categories generate the most revenue?
 
@@ -44,7 +44,7 @@ Which products are underperforming?
 
 How do bike subcategories compare?
 
-4️⃣ Profitability Analysis
+**4️. Profitability Analysis**
 
 Which categories generate the most profit?
 
