@@ -1,4 +1,4 @@
-# Retail Sales Performance & Profitability Analysis
+# Retail Sales Performance & Profitability Analysis 🚲
 
 ## Project Overview
 This project analyzes retail sales data to evaluate revenue trends, customer behavior, product performance, and profitability.
